@@ -5,7 +5,7 @@ permalink: /development/
 author_profile: true
 ---
 
-To find all my developed games you can visit [knightscave.com](https://www.knightscave.com/).
+To find all of my developed games you can visit [knightscave.com](https://www.knightscave.com/).
 
 ## Android
 
