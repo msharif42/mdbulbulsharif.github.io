@@ -6,5 +6,11 @@ main:
   - title: "Experience"
     url: /experience/    
     
+  - title: "Development"
+    url: /development/
+    
+  - title: "Award"
+    url: /award/ 
+    
   - title: "CV"
     url: /cv/
