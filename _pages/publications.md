@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2020
 
-**8\.** Farzana Ahamed Bhuiyan, Katherine Brown, and **Md Bulbul Sharif**. "Assessing Modality Selection Heuristics to Improve Multimodal Deep Learning for Malware Detection." Proceedings of Student Research and Creative Inquiry Day 4 (2020). [link](https://publish.tntech.edu/index.php/PSRCI/article/view/670/236)
+**8\.** Farzana Ahamed Bhuiyan, Katherine Brown, and **Md Bulbul Sharif**. "Assessing Modality Selection Heuristics to Improve Multimodal Deep Learning for Malware Detection." Proceedings of Student Research and Creative Inquiry Day 4 (2020). [[link](https://publish.tntech.edu/index.php/PSRCI/article/view/670/236)]
 
 **7\.** Farzana Ahamed Bhuiyan, Katherine Brown, **Md Bulbul Sharif**, Quentin Johnson, and Douglas Talbert. "Assessing Modality Selection Heuristics to Improve Multimodal Machine Learning for Malware Detection." The Thirty-Third International Flairs Conference. 2020. [link](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/viewFile/18476/17629)
 
