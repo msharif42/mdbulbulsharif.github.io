@@ -5,6 +5,18 @@ permalink: /experience/
 author_profile: true
 ---
 
-## 2020
+## Work Experience
 
-1. Farzana Ahamed Bhuiyan, Katherine Brown, and **Md Bulbul Sharif**. "Assessing Modality Selection Heuristics to Improve Multimodal Deep Learning for Malware Detection." Proceedings of Student Research and Creative Inquiry Day 4 (2020). [[Link](https://publish.tntech.edu/index.php/PSRCI/article/view/670/236)]
+### Industry
+
+1. Research Intern, Oak Ridge National Laboratory, Oak Ridge, TN, United States, 2019
+
+2. Software Developer (Android), Reve System Ltd, Dhaka, Bangladesh, 2016-2017.
+
+### Academic
+
+1. Student Volunteer, SC18 Conference, Dallas, TX, United States, 2018
+
+2. Teaching Assistant, Tennessee Tech University, Cookeville, TN, United States, 2017-2018
+
+3. Research Assistant, Tennessee Tech University, Cookeville, TN, United States, 2018-Present
