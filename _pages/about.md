@@ -12,4 +12,4 @@ I am Bulbul, a graduate student (PhD Research Assistant) in the Department of Co
 
 I was born in Bangladesh, a beautiful country in South Asia. I completed my undergraduate studies at Bangladesh University of Engineering and Technology (BUET). Besides research, I like to develop video games mainly for mobile platforms. I have developed the most popular card game ([29 Card Game](https://play.google.com/store/apps/details?id=com.BS_Pias.twentynine&hl=en_US)) in the south Asian region. So far there are 7 million downloads in google play store.
 
-I like to play Cricket. I consider myself as a bowler allrounder. Besides that, I like to travel, watching movies, and play cards with friends like (Poker, Bridge, 29, etc).
+I like to play Cricket. Besides that, I like to travel, watching movies, and play cards with friends like (Poker, Bridge, 29, etc).
