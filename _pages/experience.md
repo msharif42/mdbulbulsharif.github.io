@@ -18,7 +18,7 @@ Reve System Ltd, Dhaka, Bangladesh<br/>
 ## Academic
 
 1. Student Volunteer<br/>
-SC18 Conference, Dallas, TX, United States<br/>
+The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), Dallas, TX, United States<br/>
 2018, 7 days
 
 2. Teaching Assistant<br/>
