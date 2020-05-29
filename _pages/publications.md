@@ -7,9 +7,9 @@ author_profile: true
 
 ## 2020
 
-1. Farzana Ahamed Bhuiyan, Katherine Brown, and **Md Bulbul Sharif**. "Assessing Modality Selection Heuristics to Improve Multimodal Deep Learning for Malware Detection." Proceedings of Student Research and Creative Inquiry Day 4 (2020). [[Link](https://publish.tntech.edu/index.php/PSRCI/article/view/670/236)]
+1. Farzana Ahamed Bhuiyan, Katherine Brown, **Md Bulbul Sharif**, Quentin Johnson, and Douglas Talbert. "Assessing Modality Selection Heuristics to Improve Multimodal Machine Learning for Malware Detection." The Thirty-Third International Flairs Conference. 2020. [[Link](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/viewFile/18476/17629)]
 
-2. Farzana Ahamed Bhuiyan, Katherine Brown, **Md Bulbul Sharif**, Quentin Johnson, and Douglas Talbert. "Assessing Modality Selection Heuristics to Improve Multimodal Machine Learning for Malware Detection." The Thirty-Third International Flairs Conference. 2020. [[Link](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/viewFile/18476/17629)]
+2. Farzana Ahamed Bhuiyan, Katherine Brown, and **Md Bulbul Sharif**. "Assessing Modality Selection Heuristics to Improve Multimodal Deep Learning for Malware Detection." Proceedings of Student Research and Creative Inquiry Day 4 (2020). [[Link](https://publish.tntech.edu/index.php/PSRCI/article/view/670/236)]
 
 3. Mario Morales-Hernández, **Md Bulbul Sharif**, Sudershan Gangrade, Tigstu TSIGE Dullo, Shih-Chieh Kao, Alfred Kalyanapu, Sheikh Ghafoor, Katherine Evans, Ehsan Madadi-Kandjani, and Ben Hodges. "High-performance computing in water resources hydrodynamics." Journal of Hydroinformatics (2020). [[Link](https://iwaponline.com/jh/article-pdf/doi/10.2166/hydro.2020.163/667135/jh2020163.pdf)]
 
