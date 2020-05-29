@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Click on download to download or view my CV.
+Click on "Download" to download or view my CV.
 
 [Download](https://msharif42.github.io/files/Resume.pdf)
