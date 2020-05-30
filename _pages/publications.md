@@ -23,7 +23,7 @@ author_profile: true
 
 3. Tigstu TSIGE Dullo, Sudershan Gangrade, **Md Bulbul Sharif**, Mario Morales-Hernández, Alfred Kalyanapu, Sheikh Ghafoor, Shih-Chieh Kao, and Katherine Evans. "Modeling of climate change induced flood risk in the Conasauga River Basin." AGU Fall Meeting 2019. AGU, 2019. [[Conference](https://www.researchgate.net/profile/Mario_Morales-Hernandez/publication/338569282_Modeling_of_climate_change_induced_flood_risk_in_the_Conasauga_River_Basin/links/5e1d2a15299bf10bc3abedcc/Modeling-of-climate-change-induced-flood-risk-in-the-Conasauga-River-Basin.pdf)]
 
-4. **Md Bulbul Sharif**, Sheikh Ghafoor, Katherine Evans, Alfred Kalyanapu, Shih-Chieh Kao, Tigstu TSIGE Dullo, and Sudershan Gangrade. "Poster: Simulating Hurricane Harvey Using Two Dimensional Flood Model on Titan and Summit at ORNL." The Platform for Advanced Scientific Computing (PASC) Conference, 2019. [[Poster](https://pasc19.pasc-conference.org/program/schedule/index.html%3Fpost_type=page&p=10&id=post143&sess=sess179.html)]
+4. **Md Bulbul Sharif**, Sheikh Ghafoor, Katherine Evans, Alfred Kalyanapu, Shih-Chieh Kao, Tigstu TSIGE Dullo, and Sudershan Gangrade. "Simulating Hurricane Harvey Using Two Dimensional Flood Model on Titan and Summit at ORNL." The Platform for Advanced Scientific Computing (PASC) Conference, 2019. [[Poster](https://pasc19.pasc-conference.org/program/schedule/index.html%3Fpost_type=page&p=10&id=post143&sess=sess179.html)]
 
 5. Farzana Ahamed Bhuiyan, and **Md Bulbul Sharif**. "Solving Multimodal Problem using Deep Learning: Speaker Identification." Proceedings of Student Research and Creative Inquiry Day 3 (2019). [[Poster](https://publish.tntech.edu/index.php/PSRCI/article/view/526)]
 
