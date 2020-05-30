@@ -5,7 +5,7 @@ permalink: /award/
 author_profile: true
 ---
 
-1. Eminence Awards 2019<br/>
+1. Eminence Awards 2019 (Doctor & Philosophy Best Paper Award)<br/>
 Tennessee Technological University
 
 2. Best Conference Paper<br/>
