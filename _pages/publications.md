@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2020
 
-1. Mario Morales-Hernández, Katherine Evans, Sudershan Gangrade, Shih-Chieh Kao, **Md Bulbul Sharif**, Sheikh Ghafoor, Alfred Kalyanapu, and Tigstu TSIGE Dullo. TRITON. No. TRITON; 005921WKSTN00. Oak Ridge National Lab.(ORNL), Oak Ridge, TN (United States), 2020.[[Link](https://www.osti.gov/biblio/1630725)]
+1. Mario Morales-Hernández, Katherine Evans, Sudershan Gangrade, Shih-Chieh Kao, **Md Bulbul Sharif**, Sheikh Ghafoor, Alfred Kalyanapu, and Tigstu TSIGE Dullo. TRITON. No. TRITON; 005921WKSTN00. Oak Ridge National Lab.(ORNL), Oak Ridge, TN (United States), 2020. [[Link](https://www.osti.gov/biblio/1630725)]
 
 2. Farzana Ahamed Bhuiyan, Katherine Brown, **Md Bulbul Sharif**, Quentin Johnson, and Douglas Talbert. "Assessing Modality Selection Heuristics to Improve Multimodal Machine Learning for Malware Detection." The Thirty-Third International Flairs Conference. 2020. [[Link](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/viewFile/18476/17629)]
 
