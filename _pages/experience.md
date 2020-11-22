@@ -21,10 +21,14 @@ Reve System Ltd, Dhaka, Bangladesh<br/>
 The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), Dallas, TX, United States<br/>
 2018, 7 days
 
-2. Teaching Assistant<br/>
+2. Student Volunteer<br/>
+The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), Atlanta, GA, United States<br/>
+2020, 14 days
+
+3. Teaching Assistant<br/>
 Tennessee Tech University, Cookeville, TN, United States<br/>
 2017-2018, 1 year
 
-3. Research Assistant<br/>
+4. Research Assistant<br/>
 Tennessee Tech University, Cookeville, TN, United States<br/>
 2018-Present, 2 years
