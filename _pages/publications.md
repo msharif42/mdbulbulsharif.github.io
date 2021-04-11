@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Journal/Conference
+```html
+   <p style="color:red;">Red paragraph text</p>
+```
+## Journal/Conference
 
 ## 2021
 
@@ -35,7 +38,8 @@ author_profile: true
 
 1. Ryan Marshall, Sheikh Ghafoor, and **Md Bulbul Sharif**. "A System for Performance Porting of Iterative Structured Grid Applications in HPC Environments." 2018 21st International Conference of Computer and Information Technology (ICCIT). IEEE, 2018. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8631978)] **Best Paper Award**
 
-### Poster/Abstract
+
+## Poster/Abstract
 
 1. Farzana Ahamed Bhuiyan, Katherine Brown, and **Md Bulbul Sharif**. "Assessing Modality Selection Heuristics to Improve Multimodal Deep Learning for Malware Detection." Proceedings of Student Research and Creative Inquiry Day 4 (2020). [[Pdf](https://msharif42.github.io/files/TTU_Poster_2020.pdf)]
 
