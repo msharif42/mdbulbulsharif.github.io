@@ -17,7 +17,7 @@ author_profile: true
 
 ## 2020
 
-1. **Md Bulbul Sharif**, Sheikh Ghafoor, Thomas Hines, Mario Morales-Hernández, Katherine Evans, Shih-Chieh Kao, Alfred Kalyanapu, Tigstu T Dullo, and Sudershan Gangrade. "Performance Evaluation of a Two-Dimensional Flood Model on Heterogeneous High-Performance Computing Architectures." The Platform for Advanced Scientific Computing (PASC) Conference, 2020. [[Pdf](https://dl.acm.org/doi/pdf/10.1145/3394277.3401852)] ***Best Paper Award***
+1. **Md Bulbul Sharif**, Sheikh Ghafoor, Thomas Hines, Mario Morales-Hernández, Katherine Evans, Shih-Chieh Kao, Alfred Kalyanapu, Tigstu T Dullo, and Sudershan Gangrade. "Performance Evaluation of a Two-Dimensional Flood Model on Heterogeneous High-Performance Computing Architectures." The Platform for Advanced Scientific Computing (PASC) Conference, 2020. [[Pdf](https://dl.acm.org/doi/pdf/10.1145/3394277.3401852)] \***Best Paper Award**\*
 
 2. Mario Morales-Hernández, **Md Bulbul Sharif**, Sudershan Gangrade, Tigstu T Dullo, Shih-Chieh Kao, Alfred Kalyanapu, Sheikh Ghafoor, Katherine Evans, Ehsan Madadi-Kandjani, and Ben Hodges. "High-performance computing in water resources hydrodynamics." Journal of Hydroinformatics (2020). [[Pdf](https://iwaponline.com/jh/article-pdf/22/5/1217/761454/jh0221217.pdf)]
 
@@ -33,7 +33,7 @@ author_profile: true
 
 ## 2018
 
-1. Ryan Marshall, Sheikh Ghafoor, and **Md Bulbul Sharif**. "A System for Performance Porting of Iterative Structured Grid Applications in HPC Environments." 2018 21st International Conference of Computer and Information Technology (ICCIT). IEEE, 2018. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8631978)] ***Best Paper Award***
+1. Ryan Marshall, Sheikh Ghafoor, and **Md Bulbul Sharif**. "A System for Performance Porting of Iterative Structured Grid Applications in HPC Environments." 2018 21st International Conference of Computer and Information Technology (ICCIT). IEEE, 2018. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8631978)] \***Best Paper Award**\*
 
 
 ## Poster/Abstract
