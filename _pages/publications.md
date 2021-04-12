@@ -34,14 +34,12 @@ author_profile: true
 1. Ryan Marshall, Sheikh Ghafoor, and **Md Bulbul Sharif**. "A System for Performance Porting of Iterative Structured Grid Applications in HPC Environments." 2018 21st International Conference of Computer and Information Technology (ICCIT). IEEE, 2018. [[Conference](https://ieeexplore.ieee.org/abstract/document/8631978)] **\*\*\*Best Paper Award\*\*\***
 
 
-## Poster/Abstract
+## Poster
 
 1. Farzana Ahamed Bhuiyan, Katherine Brown, and **Md Bulbul Sharif**. "Assessing Modality Selection Heuristics to Improve Multimodal Deep Learning for Malware Detection." Proceedings of Student Research and Creative Inquiry Day 4 (2020). [[Pdf](https://msharif42.github.io/files/TTU_Poster_2020.pdf)]
 
-2. Tigstu T Dullo, Sudershan Gangrade, **Md Bulbul Sharif**, Mario Morales-Hernández, Alfred Kalyanapu, Sheikh Ghafoor, Shih-Chieh Kao, and Katherine Evans. "Modeling of climate change induced flood risk in the Conasauga River Basin." AGU Fall Meeting 2019. AGU, 2019. [[Pdf](https://msharif42.github.io/files/AGU2019-Abstract-Dullo.pdf)]
+2. **Md Bulbul Sharif**, Sheikh Ghafoor, Katherine Evans, Alfred Kalyanapu, Shih-Chieh Kao, Tigstu T Dullo, and Sudershan Gangrade. "Simulating Hurricane Harvey Using Two Dimensional Flood Model on Titan and Summit at ORNL." The Platform for Advanced Scientific Computing (PASC) Conference, 2019. [[Pdf](https://msharif42.github.io/files/PASC_Poster_Final.pdf)]
 
-3. **Md Bulbul Sharif**, Sheikh Ghafoor, Katherine Evans, Alfred Kalyanapu, Shih-Chieh Kao, Tigstu T Dullo, and Sudershan Gangrade. "Simulating Hurricane Harvey Using Two Dimensional Flood Model on Titan and Summit at ORNL." The Platform for Advanced Scientific Computing (PASC) Conference, 2019. [[Pdf](https://msharif42.github.io/files/PASC_Poster_Final.pdf)]
+3. Farzana Ahamed Bhuiyan, and **Md Bulbul Sharif**. "Solving Multimodal Problem using Deep Learning: Speaker Identification." Proceedings of Student Research and Creative Inquiry Day 3 (2019). [[Pdf](https://msharif42.github.io/files/TTU_Poster_2019.pdf)]
 
-4. Farzana Ahamed Bhuiyan, and **Md Bulbul Sharif**. "Solving Multimodal Problem using Deep Learning: Speaker Identification." Proceedings of Student Research and Creative Inquiry Day 3 (2019). [[Pdf](https://msharif42.github.io/files/TTU_Poster_2019.pdf)]
-
-5. Farzana Ahamed Bhuiyan, Paul Joshua Tinker, and **Md Bulbul Sharif**. "Generation and Analysis of Breast Tumor Data Using Distance Weighted Discrimination and Subgroup Discovery." Proceedings of Student Research and Creative Inquiry Day 2 (2018). [[Pdf](https://msharif42.github.io/files/TTU_Poster_2018.pdf)]
+4. Farzana Ahamed Bhuiyan, Paul Joshua Tinker, and **Md Bulbul Sharif**. "Generation and Analysis of Breast Tumor Data Using Distance Weighted Discrimination and Subgroup Discovery." Proceedings of Student Research and Creative Inquiry Day 2 (2018). [[Pdf](https://msharif42.github.io/files/TTU_Poster_2018.pdf)]
