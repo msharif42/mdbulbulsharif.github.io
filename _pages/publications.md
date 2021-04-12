@@ -17,7 +17,7 @@ author_profile: true
 
 ## 2020
 
-1. **Md Bulbul Sharif**, Sheikh Ghafoor, Thomas Hines, Mario Morales-Hernández, Katherine Evans, Shih-Chieh Kao, Alfred Kalyanapu, Tigstu T Dullo, and Sudershan Gangrade. "Performance Evaluation of a Two-Dimensional Flood Model on Heterogeneous High-Performance Computing Architectures." The Platform for Advanced Scientific Computing (PASC) Conference, 2020. [[Pdf](https://dl.acm.org/doi/pdf/10.1145/3394277.3401852)] **\*\*\*Best Paper Award\*\*\***
+1. **Md Bulbul Sharif**, Sheikh Ghafoor, Thomas Hines, Mario Morales-Hernández, Katherine Evans, Shih-Chieh Kao, Alfred Kalyanapu, Tigstu T Dullo, and Sudershan Gangrade. "Performance Evaluation of a Two-Dimensional Flood Model on Heterogeneous High-Performance Computing Architectures." The Platform for Advanced Scientific Computing (PASC) Conference, 2020. [[Pdf](https://www.researchgate.net/profile/Mario-Morales-Hernandez/publication/342531107_Performance_Evaluation_of_a_Two-Dimensional_Flood_Model_on_Heterogeneous_High-Performance_Computing_Architectures/links/5f04a63e92851c52d61e2b86/Performance-Evaluation-of-a-Two-Dimensional-Flood-Model-on-Heterogeneous-High-Performance-Computing-Architectures.pdf)] **\*\*\*Best Paper Award\*\*\***
 
 2. Mario Morales-Hernández, **Md Bulbul Sharif**, Sudershan Gangrade, Tigstu T Dullo, Shih-Chieh Kao, Alfred Kalyanapu, Sheikh Ghafoor, Katherine Evans, Ehsan Madadi-Kandjani, and Ben Hodges. "High-performance computing in water resources hydrodynamics." Journal of Hydroinformatics (2020). [[Pdf](https://iwaponline.com/jh/article-pdf/22/5/1217/761454/jh0221217.pdf)]
 
