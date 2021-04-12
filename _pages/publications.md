@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2021
 
-1. Mario Morales-Hernández, **Md Bulbul Sharif**, Alfred Kalyanapu, Sheikh Ghafoor, Tigstu T Dullo, Sudershan Gangrade, Shih-Chieh Kao, Mattew Norman, and Katherine Evans. "TRITON: A Multi-GPU Open Source 2D Hydrodynamic Flood Model." Environmental Modelling & Software, 2021. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1364815221000773)]
+1. Mario Morales-Hernández, **Md Bulbul Sharif**, Alfred Kalyanapu, Sheikh Ghafoor, Tigstu T Dullo, Sudershan Gangrade, Shih-Chieh Kao, Mattew Norman, and Katherine Evans. "TRITON: A Multi-GPU Open Source 2D Hydrodynamic Flood Model." Environmental Modelling & Software, 2021. [[Pdf](https://www.researchgate.net/profile/Mario-Morales-Hernandez/publication/350597158_TRITON_A_Multi-GPU_Open_Source_2D_Hydrodynamic_Flood_Model/links/606c53a4a6fdccf289fbf0c7/TRITON-A-Multi-GPU-Open-Source-2D-Hydrodynamic-Flood-Model.pdf)]
 
 2. Farzana Ahamed Bhuiyan, **Md Bulbul Sharif**, and Akond Rahman. "Security Bug Report Usage for Software Vulnerability Research: A Systematic Mapping Study." IEEE Access, 2021. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9350573)]
 
