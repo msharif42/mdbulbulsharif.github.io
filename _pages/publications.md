@@ -29,6 +29,8 @@ author_profile: true
 
 1. Farzana Ahamed Bhuiyan, **Md Bulbul Sharif**, Paul Joshua Tinker, William Eberle, Douglas Talbert, Sheikh Ghafoor, and Lewis Frey. "Gene Selection and Clustering of Breast Cancer Data." The Thirty-Second International Flairs Conference, 2019. [[Conference](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS19/paper/view/18184) - [Pdf](https://msharif42.github.io/files/FLAIRS19.pdf)]
 
+2. Mario Morales Hernandez, **Md Bulbul Sharif**, Sudershan Gangrade, Tigstu T Dullo, Shih-Chieh Kao, Alfred Kalyanapu, Sheikh Ghafoor, and Katherine Evans. "High Performance Computing in hydraulics: the new era of flood forecasting." Modeling Hydrodynamics for Water Resources (MODWATER 2019) - Zaragoza, , Spain, 2019. [[Conference](https://www.osti.gov/biblio/1559648-high-performance-computing-hydraulics-new-era-flood-forecasting) - [Pdf](https://www.osti.gov/servlets/purl/1559648)]
+
 ## 2018
 
 1. Ryan Marshall, Sheikh Ghafoor, and **Md Bulbul Sharif**. "A System for Performance Porting of Iterative Structured Grid Applications in HPC Environments." 2018 21st International Conference of Computer and Information Technology (ICCIT). IEEE, 2018. [[Conference](https://ieeexplore.ieee.org/abstract/document/8631978) - [Pdf](https://msharif42.github.io/files/ICCIT18.pdf)] **\*\*\*Best Paper Award\*\*\***
